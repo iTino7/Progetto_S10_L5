@@ -1,0 +1,22 @@
+body {
+  background-color: 	#15719f;
+  color: white;
+}
+
+.containerApp {
+  background: 	#245c86;
+  backdrop-filter: blur(15px) saturate(120%);
+  border-radius: 18px;
+}
+
+.containerAppWeather {
+  background: 	#3569916c;
+
+  backdrop-filter: blur(15px) saturate(180%);
+  border-radius: 18px;
+
+}
+
+.fontSize {
+  font-size: 100px;
+}
